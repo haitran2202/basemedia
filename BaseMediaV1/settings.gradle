@@ -1,0 +1,2 @@
+include ':app', ':basemedia'
+rootProject.name='BaseMediaV1'

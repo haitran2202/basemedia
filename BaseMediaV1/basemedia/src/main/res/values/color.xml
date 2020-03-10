@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="grey">#EAEAEA</color>
+    <color name="colorPrimary">#00904a</color>
+    <color name="colorPrimaryDark">#00904a</color>
+    <color name="colorTransparent">#00000000</color>
+    <color name="textColorPrimary">#000000</color>
+    <color name="textColorPrimaryDark">#000000</color>
+    <color name="colorAccent">#00904a</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorBlackTransparent">#5E444444</color>
+    <color name="colorBorder">#cccccc</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorWhiteTransparent">#CCFFFFFF</color>
+    <color name="color_2F7ED8">#2F7ED8</color>
+    <color name="color_00864A">#00904A</color>
+    <color name="color_FF7F00">#FF7F00</color>
+    <color name="colorDivider">#F7F5F5</color>
+    <color name="colorGray">#b2b2b2</color>
+    <color name="common_google_signin_btn_text_dark_pressed">#000000</color>
+    <color name="common_google_signin_btn_text_dark_focused">#000000</color>
+    <color name="colorOrange">#ff5117</color>
+    <color name="colorRed">#FF001D</color>
+    <color name="colorYellow">#F2C94C</color>
+    <color name="colorGrayLight">#f4f5f7</color>
+    <color name="colorDarkGrayLight">#ecedef</color>
+    <color name="colorGrayBackground">#D8DADE</color>
+    <color name="colorGrayDark">#646161</color>
+    <color name="lineGray">#E9E7E7</color>
+    <color name="lineGrayV2">#CCF3F1F1</color>
+    <color name="lineGreen">#00904a</color>
+    <color name="colorPressWhite">#cbced2</color>
+    <color name="textDarkGray">#565252</color>
+    <color name="colorTextGray">#565252</color>
+    <color name="lightWeightkGray">#efefef</color>
+    <color name="colorShadedPrimary">#7FC8A4</color>
+    <color name="colorgray">#9E565252</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="lightGray">#eaeaea</color>
+
+    <color name="lines_panel_pickerui">#aaaaaa</color>
+    <color name="color_tag">#aaaaaa</color>
+
+    <!-- PickerUI panel colors -->
+    <color name="background_panel_pickerui">#fffafafa</color>
+
+    <!-- PickerUI items colors -->
+    <color name="text_center_pickerui">#ff000000</color>
+    <color name="text_no_center_pickerui">#aaa</color>
+    <drawable name="list_item_selected">#aaaaaa</drawable>
+
+    <!-- PickerUI shadow colors -->
+    <color name="grey5">#50747474</color>
+    <color name="common_signin_btn_dark_text_disabled">#FFAAAAAA</color>
+    <color name="com_maxproj_calendarpicker_SteelBlue">#4682B4</color>
+    <color name="color_messenger_fb">#2196f3</color>
+    <color name="color_ic_gray">#b2b2b2</color>
+    <color name="color_ic_fb">#475993</color>
+    <color name="colorfb">#2F7ED8</color>
+    <color name="colorGrayPress">#7b7878</color>
+    <color name="colorPrimaryLight">#0ce27a</color>
+    <color name="colorShopee">#D2691E</color>
+    <color name="blue">#1836DA</color>
+    <color name="colorDarkGray">#d5d7db</color>
+
+    <color name="line_chart_line">#7DD8E6</color>
+    <color name="line_chart_fill">#06383F</color>
+</resources>

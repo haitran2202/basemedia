@@ -1,0 +1,37 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorBlack"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.github.chrisbanes.photoview.PhotoView
+        android:id="@+id/details_image_iv"
+        style="@style/ImageViewBackground"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true"
+        android:scaleType="centerInside"
+        >
+    </com.github.chrisbanes.photoview.PhotoView>
+
+    <ImageView
+        android:id="@+id/viewImageVideo"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_centerInParent="true"
+        android:visibility="gone"
+        android:src="@drawable/play_button"
+        />
+
+    <ImageView
+        android:id="@+id/cancel_iv"
+        android:layout_width="@dimen/dp_30"
+        android:layout_height="@dimen/dp_30"
+        android:layout_marginTop="@dimen/dp_8"
+        android:padding="@dimen/dp_8"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="@dimen/dp_8"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:src="@drawable/ic_cancel_detail" />
+</RelativeLayout>
