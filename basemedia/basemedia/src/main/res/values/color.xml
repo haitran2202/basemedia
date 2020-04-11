@@ -8,7 +8,7 @@
     <color name="textColorPrimaryDark">#000000</color>
     <color name="colorAccent">#00904a</color>
     <color name="colorBlack">#000000</color>
-    <color name="colorBlackTransparent">#5E444444</color>
+    <color name="colorBlackTransparent">#5EE0E0E0</color>
     <color name="colorBorder">#cccccc</color>
     <color name="colorWhite">#ffffff</color>
     <color name="colorWhiteTransparent">#CCFFFFFF</color>
